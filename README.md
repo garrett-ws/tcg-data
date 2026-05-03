@@ -80,6 +80,8 @@ The aggregation pipeline:
 
 The new collection allows for easier data aggregation on the desired information, as it reduces the load needed when using Atlas Charts on the data.
 
+![TCG Data Atlas Charts Example](https://github.com/garrett-ws/tcg-data/blob/main/assets/tcg_data_atlas_charts_example.png)
+
 ## To-do
 - [ ] Test setup on local MongoDB database
 - [ ] Setup Docker for project
